@@ -1,4 +1,4 @@
-# ai-mental-health-crisis-response
+## AI for Accessible Mental Health Care in San Jose
 AI system designed to help connect unhoused individuals in San Jose to mental health and crisis support services. Using language processing and image recognition, the project analyzes community reports, identifies urgency levels, and recommends the appropriate outreach or emergency response resources.
 ## Problem — Who is affected, and what specifically breaks down for them today?
 ## AI Capability
