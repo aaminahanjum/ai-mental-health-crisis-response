@@ -2,6 +2,8 @@
 AI system designed to help connect unhoused individuals in San Jose to mental health and crisis support services. Using language processing and image recognition, the project analyzes community reports, identifies urgency levels, and recommends the appropriate outreach or emergency response resources.
 ## Problem
 Who is affected, and what specifically breaks down for them today?
+In San Jose is a growing issue related to the United Nations Sustainable Development Goals, specifically SDG 3: Good Health and SDG 10: Reduced Inequalities is the breakdown in how unhoused individuals access accessible and timely mental health care. This can be illustrated by a case in which a 40-year-old experiencing a mental health emergency often cannot determine where to go or who to contact in real time, whether that is 988, an emergency room, or an outreach team. The operational failure occurs at the intake and routing stage of the system where the situations of crisis are not consistently translated into a clear, immediate action path for the individual. Although multiple services exist, they are not unified into a single coordinated entry point, the response depends on the person already knowing how the system works. This is further constrained by barriers like the lack of stable internet, financial resources, social support, or prior experience with the healthcare and city system, which prevents effective self-navigation during urgent situations.
+
 ## AI Capability
 Which lab capability addresses the failure point, and why does it fit?
 ## Workflow
