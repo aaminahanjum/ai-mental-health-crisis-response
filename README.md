@@ -4,7 +4,8 @@ AI system designed to help connect unhoused individuals in San Jose to mental he
 ## AI Capability
 Which lab capability addresses the failure point, and why does it fit?
 ## Workflow
-What goes in, what does the AI do, what comes out, and who acts on the output? Provide screenshots to make it more visual.
+The inputs of the system include community reports from local residents, outreach workers, or unhoused people themselves that describe mental health crises or unsafe conditions. This can also be in the form of text messages, pictures, or voice descriptions via short messaging systems (SMS) or phone applications. The AI system then extracts and structures necessary information from unstructured reports with a defined schema of six fields, including location, issue type, urgency level, recommended service, individual description, and resident language. A description of the individual would be processed with image recognition, while resident language would be processed to provide accessibility to those who speak in languages other than English. The screenshot below shows example messages from residents describing mental health crises.
+
 ## Failure Case
 One specific failure, with a reference to the lab output that showed it is possible.
 ## Oversight and Tradeoff
