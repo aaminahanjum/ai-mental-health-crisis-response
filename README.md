@@ -8,8 +8,9 @@ The AI capability we are using in this prototype is structured information extra
 
 ## Workflow
 The inputs of the system include community reports from local residents, outreach workers, or unhoused people themselves that describe mental health crises or unsafe conditions. This can also be in the form of text messages, pictures, or voice descriptions via short messaging systems (SMS) or phone applications. The AI system then extracts and structures necessary information from unstructured reports with a defined schema of six fields, including location, issue type, urgency level, recommended service, individual description, and resident language. A description of the individual would be processed with image recognition, while resident language would be processed to provide accessibility to those who speak in languages other than English. The screenshot below shows example messages from residents describing mental health crises.
-
+<img width="1130" height="577" alt="Output_Workflow" src="https://github.com/user-attachments/assets/10a66280-3abb-4494-90c6-8d246059ebe4" />
 The output of the system generates clear, consistent information of the location, issue type, urgency, and recommended service. The system also flags key words, so crises are classified by severity, and high-risk cases are prioritized to provide homeless people with barriers to immediate care. As seen in the screenshot below, three different complaint types and its AI structured outputs were assessed ranging in English and Spanish.
+<img width="1130" height="577" alt="Output_Workflow" src="https://github.com/user-attachments/assets/403578c1-3be3-47e4-b071-5a85abb11a5c" />
 These reports are automatically directed to the appropriate city departments, outreach workers, and crisis teams to act on the information. The system will also instantly connect support services like the 988 Suicide and Crisis Lifeline for mental health emergencies.
 
 ## Failure Case
